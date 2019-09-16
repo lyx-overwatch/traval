@@ -3,7 +3,7 @@
     <Header></Header>
     <List></List>
     <Idea></Idea>
-    <Swiper></Swiper>
+    <ImageLazyLoad></ImageLazyLoad>
   </div>
 </template>
 
@@ -11,14 +11,14 @@
 import Header from './header'
 import List from './list'
 import Idea from './idea'
-import Swiper from './swiper'
+import ImageLazyLoad from './lazyload'
 export default {
   name: 'TravalIndex',
   components: {
     Header,
     List,
     Idea,
-    Swiper
+    ImageLazyLoad
   }
 }
 </script>

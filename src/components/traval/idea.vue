@@ -55,8 +55,8 @@ export default {
 
 <style lang="stylus" scoped>
 .idea
-  margin-top 1rem
-  margin-bottom 1.5rem
+  margin-top 2.5rem
+  margin-bottom 2.5rem
   text-align left
   font-size .8rem
   span
